@@ -1,4 +1,4 @@
-# RailsでjQueryを使用する
+#  RailsでjQueryを使用する
 
 ## ・ Gemパッケージの追加(jquery-rails)
 Gemfileに`jquery-rails`を追加する。
