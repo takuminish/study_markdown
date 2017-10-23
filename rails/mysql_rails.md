@@ -31,3 +31,6 @@ Userモデルを作成する。UserモデルはString型のnameとString型のpa
 `show database;`により現在作成されているDBが表示される。
 `show tables from DB名;`によりDB名に作成されているテーブルが表示される。
 `show columns from テーブル名;`によりテーブルの構造が表示される。
+
+## 参考ページ
+[RailsのDBをMySQLにする方法 - Qiita](https://qiita.com/itkrt2y/items/4ea5bfe90ca65e4a9ebd)
