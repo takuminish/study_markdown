@@ -1,4 +1,5 @@
 #RailsにmySQLを導入する方法
+
 ##・rootでログイン
 コンソールで`mysql -u root -p`と入力
 ##・ ユーザ一覧の取得
