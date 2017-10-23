@@ -1,12 +1,12 @@
-#RailsにmySQLを導入する方法
+# RailsにmySQLを導入する方法
 
-##・rootでログイン
+## ・rootでログイン
 コンソールで`mysql -u root -p`と入力
 
-##・ ユーザ一覧の取得
+## ・ ユーザ一覧の取得
 コンソールで`select User,Host from mysql.user;`と入力することで表示
 
-##・ 新しくユーザを作る
+## ・ 新しくユーザを作る
 rootユーザで操作を行う
 
 `CREATE USER 'your_name'@'localhost' IDENTIFIED BY 'your_password';`
