@@ -2,8 +2,10 @@
 
 ##・rootでログイン
 コンソールで`mysql -u root -p`と入力
+
 ##・ ユーザ一覧の取得
 コンソールで`select User,Host from mysql.user;`と入力することで表示
+
 ##・ 新しくユーザを作る
 rootユーザで操作を行う
 
