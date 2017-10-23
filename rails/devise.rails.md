@@ -111,4 +111,8 @@ emailを入力するフォームをユーザネームを入力するフォーム
     
 に変更する。
 
+## 参考ページ
+- [Railsのログイン認証gemのDeviseのカスタマイズ方法 - Rails Webook](http://ruby-rails.hatenadiary.com/entry/20140804/1407168000)
+- [Rails deviseによるユーザー認証 メールによる認証、emailとusernameのどちらでもログイン可能にするまで - Qiita](https://qiita.com/shizuma/items/c8c2e71af8c1dcf3d1c2)
+- [deviseをユーザー名で登録・ログインできるように修正する - Qiita](https://qiita.com/dayone80/items/ce04b21690f5f50a5cfa)
 
