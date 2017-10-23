@@ -33,4 +33,4 @@ Userモデルを作成する。UserモデルはString型のnameとString型のpa
 `show columns from テーブル名;`によりテーブルの構造が表示される。
 
 ## 参考ページ
-[RailsのDBをMySQLにする方法 - Qiita](https://qiita.com/itkrt2y/items/4ea5bfe90ca65e4a9ebd)
+- [RailsのDBをMySQLにする方法 - Qiita](https://qiita.com/itkrt2y/items/4ea5bfe90ca65e4a9ebd)

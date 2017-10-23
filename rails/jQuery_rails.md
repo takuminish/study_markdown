@@ -8,5 +8,5 @@ Gemfileに`jquery-rails`を追加する。
 `app/asset/javascript/application.js`に`//= require jquery`を追加する。
 
 ## 参考ページ
-[Rails jQueryを使用する – KeruuWeb](http://keruuweb.com/rails-jquery%E3%82%92%E4%BD%BF%E7%94%A8%E3%81%99%E3%82%8B/)
+- [Rails jQueryを使用する – KeruuWeb](http://keruuweb.com/rails-jquery%E3%82%92%E4%BD%BF%E7%94%A8%E3%81%99%E3%82%8B/)
 
