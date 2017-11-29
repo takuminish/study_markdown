@@ -8,21 +8,19 @@ Gemfileに`gem 'rubocop', require: false`を追加する。
 
 ### Include:
 Includeはrubocopのチェックを行うファイルを指定するもの
-(例)
 
 	Include:
       - ''**/Rakefile
 
-例の場合はRakefileがrubocopのチェックの対象となる。
+この場合はRakefileがrubocopのチェックの対象となる。
 
 ### Exclude:
 Excludeはrubocopのチェックを行わないファイルを指定するもの
-(例)
 
 	Exclude:
       - 'db/**/*'
       
-例の場合はdb内のすべてのファイルがrubocopのチェックの対象外となる。
+この場合はdb内のすべてのファイルがrubocopのチェックの対象外となる。
 
 ## rubocop_todo.yml
 `rubocop --auto-gen-config`を行うことで、現在offensesとなっているエラーをrubocop_todo.ymlに保存することができる。
